@@ -1,6 +1,6 @@
 # <center>Projeto de Conlusão de Módulo - Curso Data Analyst</center>
 
-<img src="https://scontent.fcgh57-1.fna.fbcdn.net/v/t1.6435-9/70474925_110913430306140_4230531327587254272_n.png?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=4I8Qkl4P6wsAX_0NJGE&_nc_ht=scontent.fcgh57-1.fna&oh=00_AT8LXcDS6G_J3w5Y0LjU__QM3O8s68J04eWsXLoqxLuhJg&oe=62D477D6" width="5000" height="250" />
+<img src="https://user-images.githubusercontent.com/40433498/174663148-44c2b1b9-fcc3-4468-b1e3-64699a2ac19b.png" width="3000" height="300" />
 
 
 <img src="https://user-images.githubusercontent.com/40433498/174669731-dc5621b9-bc5d-44c4-9227-1809697d39ac.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
@@ -32,18 +32,9 @@ o usuário está procurando ou uma opção de reiniciar o atendimento.
   
   
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
-</p>
-
+  No projeto autou como <strong>Gestora de gente e engajamento</strong>.<br>
+ Responsável por garantir que todos estão trabalhando bem e estão cumprindo suas funções</p>
 <p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
-</p>
-
 <p align="left">
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
@@ -62,25 +53,15 @@ o usuário está procurando ou uma opção de reiniciar o atendimento.
   
   
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+  No projeto autou como<strong> Gestora de conhecimento,</strong>.<br>
+  Responsável por registrar e garantir a documentação de todo o processo.
 </p>
-
-<p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
-</p>
-
 <p align="left">
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
 
 <p align="left">
-  
-  <a href="#" alt="Linkedin">
+ <a href="#" alt="Linkedin">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elizangela-camargo-3ab908144/" /></a>
 
   <a href="#" alt="Github">
@@ -93,18 +74,9 @@ o usuário está procurando ou uma opção de reiniciar o atendimento.
   
   
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+   No projeto atou como <strong> Co-Facilitadora </strong>.<br>
+   Responsável por facilitar as reuniões e irecionar o tempo para cadas sprint.
 </p>
-
-<p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
-</p>
-
 <p align="left">
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
@@ -124,16 +96,8 @@ o usuário está procurando ou uma opção de reiniciar o atendimento.
   
   
 <p align="left"> 
-  Faça uma breve aprensentação sua com o seu nome e não esqueça a <strong>Sua área</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
-</p>
-
-<p align="left">
-  🦄 Linguagens: <strong>Coloque as linguagens que você desenvolve.</strong>
-</p>
-
-<p align="left">
-  💼 Ferramentas: <strong>Coloque as suas ferramentas de trabalho.</strong>
+  No projeto atou como <strong> Colaborador </strong>.<br>
+  Responsável por garantir o cumprimento de funcções e ações.
 </p>
 
 <p align="left">
