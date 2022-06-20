@@ -1,4 +1,4 @@
-# <center>Projeto de Conlusão -  Módulo 1 - Curso Data Analyst</center>
+# <center>Projeto de Conclusão -  Módulo 1 - Curso Data Analyst</center>
 
 <img src="https://user-images.githubusercontent.com/40433498/174663148-44c2b1b9-fcc3-4468-b1e3-64699a2ac19b.png" width="3000" height="300" />
 
