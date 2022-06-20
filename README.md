@@ -18,7 +18,7 @@ O objetivo do é desenvolver um fale conosco automático,em Python,para uma empr
 * Usuário inicia o “bot” e na tela aparecem listadas as opções de atendimento;
 * Usuário informa qual opção deseja, na sequência as novas opções são listadas
 na tela para o usuário responder com sua escolha, nesse segundo nível o usuário terá outras opções de pergunta.
-4- Por fim, no último nível desse atendimento serão apresentadas as respostas que
+* Por fim, no último nível desse atendimento serão apresentadas as respostas que
 o usuário está procurando ou uma opção de reiniciar o atendimento.
 (Colar o fluxo )
 
