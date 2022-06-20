@@ -41,10 +41,10 @@ o usuário está procurando ou uma opção de reiniciar o atendimento.
 
 <p align="left">
   <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandaalvesres/" /></a>
+  <a href="https://https://www.linkedin.com/in/amandaalvesres/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandaalvesres/"/> 
 
   <a href="#" alt="Github">
-  <img src="https://img.shields.io/badge/-Github-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://github.com/AmandaAlR"/></a>
+     <a href="https://https://www.linkedin.com/in/amandaalvesres)/" target="_blank"> <img src="https://img.shields.io/badge/-Github-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://github.com/AmandaAlR"/>
 </p>  
 
 ### Elizangela Camargo
@@ -62,10 +62,10 @@ o usuário está procurando ou uma opção de reiniciar o atendimento.
 
 <p align="left">
  <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elizangela-camargo-3ab908144/" /></a>
+  <a href="https://www.linkedin.com/in/elizangela-camargo-3ab908144/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/> 
 
   <a href="#" alt="Github">
-  <img src="https://img.shields.io/badge/-Github-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://github.com/elizangela-camargo/"/></a>
+    <a href="https://https://github.com/elizangela-camargo/" target="_blank"> <img src="https://img.shields.io/badge/-Github-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/>
 </p>  
 
 ### Laura Camargo
@@ -83,11 +83,13 @@ o usuário está procurando ou uma opção de reiniciar o atendimento.
 
 <p align="left">
   
+ 
+
   <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/laura-camargo-a386961ba/" /></a>
+  <a href="https://www.linkedin.com/in/laura-camargo-a386961ba//" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandaalvesres/"/> 
 
   <a href="#" alt="Github">
-  <img src="https://img.shields.io/badge/-Github-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://github.com/LauraCamargo-tech/"/></a>
+     <a href="https://www.linkedin.com/in/laura-camargo-a386961ba/" target="_blank"> <img src="https://img.shields.io/badge/-Github-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://github.com/AmandaAlR"/>
 </p>  
 
 ### Lucas Canella
@@ -107,12 +109,9 @@ o usuário está procurando ou uma opção de reiniciar o atendimento.
 <p align="left">
 
   <a href="#" alt="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucascanella-dados/" /></a>
+<a href="https://www.linkedin.com/in/lucascanella-dados/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/> 
 
- <a href="#" alt="Github">
-  <img src="https://img.shields.io/badge/-Github-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://github.com/lucasCanella/"/></a>
-</p>  
-
-
+  <a href="#" alt="Github">
+    <a href="https://github.com/lucasCanella/" target="_blank"> <img src="https://img.shields.io/badge/-Github-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/>
 
 
