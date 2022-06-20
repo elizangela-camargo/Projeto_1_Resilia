@@ -26,6 +26,9 @@ o usuário está procurando ou uma opção de reiniciar o atendimento.
 (Colar o fluxo )
 
 ### FERRAMENTAS UTILIZADAS
+* Python
+* VS Code
+* 
 
 ### DESENVOLVEDORES DO PROJETO
 
