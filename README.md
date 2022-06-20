@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/40433498/174669731-dc5621b9-bc5d-44c4-9227-1809697d39ac.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### OBJETIVO
-O objetivo do é desenvolver um fale conosco automático,em Python,para uma emprersa de viagens, onde o atendimento contará com as opções abaixo:  
+O objetivo do projeto é desenvolver um fale conosco automático,em Python,para uma emprersa de viagens, onde o atendimento contará com as opções abaixo:  
 1. Dúvidas
 2. Consultas
 3. Informações
