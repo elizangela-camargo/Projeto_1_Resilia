@@ -6,7 +6,7 @@
 <img src="https://user-images.githubusercontent.com/40433498/174669731-dc5621b9-bc5d-44c4-9227-1809697d39ac.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### OBJETIVO
-O objetivo do projeto é desenvolver um fale conosco automático,em Python,para uma emprersa de viagens, onde o atendimento contará com as opções abaixo:  
+O objetivo do projeto é desenvolver um fale conosco automático, em Python,para uma emprersa de viagens,para empresa ReVi, onde o atendimento contará com as opções abaixo:  
 1. Dúvidas
 2. Consultas
 3. Informações
@@ -89,7 +89,7 @@ o usuário está procurando ou uma opção de reiniciar o atendimento.
   <a href="https://www.linkedin.com/in/laura-camargo-a386961ba//" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandaalvesres/"/> 
 
   <a href="#" alt="Github">
-     <a href="https://www.linkedin.com/in/laura-camargo-a386961ba/" target="_blank"> <img src="https://img.shields.io/badge/-Github-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://github.com/AmandaAlR"/>
+     <a href="https://github.com/LauraCamargo-tech" target="_blank"> <img src="https://img.shields.io/badge/-Github-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://github.com/AmandaAlR"/>
 </p>  
 
 ### Lucas Canella
