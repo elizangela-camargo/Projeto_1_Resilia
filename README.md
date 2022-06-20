@@ -1,6 +1,9 @@
+
 # <center>Projeto de Conclusão -  Módulo 1 - Curso Data Analyst</center>
 
+<marquee>
 <img src="https://user-images.githubusercontent.com/40433498/174663148-44c2b1b9-fcc3-4468-b1e3-64699a2ac19b.png" width="3000" height="300" />
+</marquee>
 
 
 ### OBJETIVO
@@ -26,9 +29,7 @@ o usuário está procurando ou uma opção de reiniciar o atendimento.
 (Colar o fluxo )
 
 ### FERRAMENTAS UTILIZADAS
-* <img src="https://user-images.githubusercontent.com/40433498/174687677-f42a2f52-1b0f-4f8d-ba9d-316e6d019c5f.png" width="50" height="50" /> 
-* <img src="https://user-images.githubusercontent.com/40433498/174687676-5d40a2fe-4b62-4fa1-a1fe-20737a1878f8.png" width="50" height="50" />
-* <img src="https://user-images.githubusercontent.com/40433498/174687678-7ea56222-a00e-4886-a63d-d4214221f8ca.jpg" width="50" height="50" />
+  <img src="https://user-images.githubusercontent.com/40433498/174687677-f42a2f52-1b0f-4f8d-ba9d-316e6d019c5f.png" width="50" height="50" /> <img src="https://user-images.githubusercontent.com/40433498/174687676-5d40a2fe-4b62-4fa1-a1fe-20737a1878f8.png" width="50" height="50" /> <img src="https://user-images.githubusercontent.com/40433498/174687678-7ea56222-a00e-4886-a63d-d4214221f8ca.jpg" width="50" height="50" />
 
 ### DESENVOLVEDORES DO PROJETO
 
@@ -41,7 +42,6 @@ o usuário está procurando ou uma opção de reiniciar o atendimento.
   No projeto autou como <strong>Gestora de gente e engajamento</strong>.<br>
  Responsável por garantir que todos estão trabalhando bem e estão cumprindo suas funções</p>
 <p align="left">
-<p align="left">
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
 
@@ -50,7 +50,7 @@ o usuário está procurando ou uma opção de reiniciar o atendimento.
   <a href="https://https://www.linkedin.com/in/amandaalvesres/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandaalvesres/"/> 
 
   <a href="#" alt="Github">
-     <a href="https://https://www.linkedin.com/in/amandaalvesres)/" target="_blank"> <img src="https://img.shields.io/badge/-Github-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://github.com/AmandaAlR"/>
+     <a href="https://github.com/AmandaAlR" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"width="60" height="20"/>
 </p>  
 
 ### Elizangela Camargo
@@ -65,14 +65,14 @@ o usuário está procurando ou uma opção de reiniciar o atendimento.
 <p align="left">
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
-
 <p align="left">
- <a href="#" alt="Linkedin">
+  <a href="#" alt="Linkedin">
   <a href="https://www.linkedin.com/in/elizangela-camargo-3ab908144/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/> 
 
   <a href="#" alt="Github">
-    <a href="https://https://github.com/elizangela-camargo/" target="_blank"> <img src="https://img.shields.io/badge/-Github-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/>
+     <a href="https://https://github.com/elizangela-camargo/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"width="60" height="20"/>
 </p>  
+  
 
 ### Laura Camargo
 <img src="https://user-images.githubusercontent.com/40433498/174672152-baff9ec5-412e-4c5b-b602-8719386de5e9.jpg" width="100" height="100" />
@@ -87,16 +87,17 @@ o usuário está procurando ou uma opção de reiniciar o atendimento.
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
 </p>
 
-<p align="left">
   
- 
-
+ <p align="left">
   <a href="#" alt="Linkedin">
-  <a href="https://www.linkedin.com/in/laura-camargo-a386961ba//" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amandaalvesres/"/> 
+  <a href="https://www.linkedin.com/in/laura-camargo-a386961ba/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/> 
 
   <a href="#" alt="Github">
-     <a href="https://github.com/LauraCamargo-tech" target="_blank"> <img src="https://img.shields.io/badge/-Github-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://github.com/AmandaAlR"/>
+     <a href="https://github.com/LauraCamargo-tech" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"width="60" height="20"/>
 </p>  
+  
+    
+
 
 ### Lucas Canella
 <img src="https://user-images.githubusercontent.com/40433498/174672153-fbed1314-a8a3-48a7-8212-4422489e3db9.jpg" width="100" height="100" />
@@ -115,8 +116,9 @@ o usuário está procurando ou uma opção de reiniciar o atendimento.
 <p align="left">
 
   <a href="#" alt="Linkedin">
-<a href="https://www.linkedin.com/in/lucascanella-dados/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/> 
+  <a href="https://www.linkedin.com/in/lucascanella-dados/" target="_blank"> <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/> 
 
   <a href="#" alt="Github">
-    <a href="https://github.com/lucasCanella/" target="_blank"> <img src="https://img.shields.io/badge/-Github-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/>
-
+     <a href="https://github.com/lucasCanella/" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"width="60" height="20"/>
+</p>  
+  
