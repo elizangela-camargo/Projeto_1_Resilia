@@ -3,7 +3,7 @@
 <img src="https://user-images.githubusercontent.com/40433498/174663148-44c2b1b9-fcc3-4468-b1e3-64699a2ac19b.png" width="3000" height="300" />
 
 
-#### OBJETIVO
+### OBJETIVO
 O objetivo do projeto é desenvolver um fale conosco automático, em Python,para uma emprersa de viagens,para empresa ReVi, onde o atendimento contará com as opções abaixo:  
 1. Dúvidas
 2. Consultas
@@ -14,7 +14,7 @@ O objetivo do projeto é desenvolver um fale conosco automático, em Python,para
 ### SOBRE A REVI
 <img src="https://user-images.githubusercontent.com/40433498/174669731-dc5621b9-bc5d-44c4-9227-1809697d39ac.png" min-width="400px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
 
-Nosso projeto traz um atendimento automtico de uma empresa aérea fictícia para retirada de dúvidas sobre a empresa e no futuro vai coletar informações para auxiliar na tomada de decisão
+Nós acreditamos que a vida deve ser vivida, e para a vida ser vivida, não pode ser "pé no chão" todos os momentos, para isso que nós existimos, existimos para facilitar todo o seu processo de viagem e realizar sonhos, então tire os pés do chão e sonhe alto, sonhe acima das nuvens, acesse os nossos pacotes de viagem e sonhe com a Revi!
 
 ### FUNCIONAMENTO 
 
