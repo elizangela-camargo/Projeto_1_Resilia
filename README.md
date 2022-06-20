@@ -117,4 +117,3 @@ o usuário está procurando ou uma opção de reiniciar o atendimento.
   <a href="#" alt="Github">
     <a href="https://github.com/lucasCanella/" target="_blank"> <img src="https://img.shields.io/badge/-Github-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white"/>
 
-
