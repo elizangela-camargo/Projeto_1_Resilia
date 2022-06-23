@@ -3,7 +3,7 @@
 
 <marquee>
 <img src="https://www.resilia.com.br/wp-content/uploads/2021/08/logo.png" width="1000" height="300" />
- <img src="https://media.giphy.com/media/ltB5sT9UUwe3FH9nZQ/giphy-downsized-large.gif" width="1980" height="" />
+ <img src="https://media.giphy.com/media/ltB5sT9UUwe3FH9nZQ/giphy-downsized-large.gif" width="1350" height="" />
 
 </marquee>
 
