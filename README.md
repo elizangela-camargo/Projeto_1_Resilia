@@ -9,12 +9,12 @@
 
 
 ### OBJETIVO
-O objetivo do projeto é desenvolver um fale conosco automático, em Python,para uma emprersa de viagens,para empresa ReVi, onde o atendimento contará com as opções abaixo:  
+O objetivo do projeto é desenvolver um fale conosco automático em Python, para a Revi, uma empresa de viagens, onde o atendimento contará com as opções abaixo:  
 1. Dúvidas
 2. Consultas
 3. Informações
 4. Sair
-5. Acrescentamos ao sitema a opção de pacotes adicionais 
+5. Acrescentamos ao sistema a opção de pacotes adicionais 
 
 ### SOBRE A REVI
 <img src="https://user-images.githubusercontent.com/40433498/174669731-dc5621b9-bc5d-44c4-9227-1809697d39ac.png" min-width="400px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
@@ -41,7 +41,7 @@ o usuário está procurando ou uma opção de reiniciar o atendimento.
   
   
 <p align="left"> 
-  No projeto autou como <strong>Gestora de gente e engajamento</strong>.<br>
+  No projeto atuou como <strong>Gestora de gente e engajamento</strong>.<br>
  Responsável por garantir que todos estão trabalhando bem e estão cumprindo suas funções</p>
 <p align="left">
   💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
@@ -61,7 +61,7 @@ o usuário está procurando ou uma opção de reiniciar o atendimento.
   
   
 <p align="left"> 
-  No projeto autou como<strong> Gestora de conhecimento,</strong>.<br>
+  No projeto atuou como<strong> Gestora de conhecimento,</strong>.<br>
   Responsável por registrar e garantir a documentação de todo o processo.
 </p>
 <p align="left">
@@ -82,7 +82,7 @@ o usuário está procurando ou uma opção de reiniciar o atendimento.
   
   
 <p align="left"> 
-   No projeto atou como <strong> Co-Facilitadora </strong>.<br>
+   No projeto atuou como <strong> Co-Facilitadora </strong>.<br>
    Responsável por facilitar as reuniões e irecionar o tempo para cadas sprint.
 </p>
 <p align="left">
@@ -107,8 +107,8 @@ o usuário está procurando ou uma opção de reiniciar o atendimento.
   
   
 <p align="left"> 
-  No projeto atou como <strong> Colaborador </strong>.<br>
-  Responsável por garantir o cumprimento de funcções e ações.
+  No projeto atuou como <strong> Colaborador </strong>.<br>
+  Responsável por garantir o cumprimento de funções e ações.
 </p>
 
 <p align="left">
