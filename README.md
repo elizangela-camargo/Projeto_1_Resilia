@@ -2,8 +2,8 @@
 # <center>Projeto de Conclusão -  Módulo 1 - Curso Data Analyst</center>
 
 <marquee>
-<img src="https://www.resilia.com.br/wp-content/uploads/2021/08/logo.png" width="3000" height="300" />
- <img src="https://media.giphy.com/media/ltB5sT9UUwe3FH9nZQ/giphy-downsized-large.gif" width="3000" height="300" />
+<img src="https://www.resilia.com.br/wp-content/uploads/2021/08/logo.png" width="" height="" />
+ <img src="https://media.giphy.com/media/ltB5sT9UUwe3FH9nZQ/giphy-downsized-large.gif" width="" height="" />
 
 </marquee>
 
