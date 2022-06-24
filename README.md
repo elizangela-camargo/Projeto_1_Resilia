@@ -28,7 +28,7 @@ Nós acreditamos que a vida deve ser vivida, e para a vida ser vivida, não pode
 na tela para o usuário responder com sua escolha, nesse segundo nível o usuário terá outras opções de pergunta.
 * Por fim, no último nível desse atendimento serão apresentadas as respostas que
 o usuário está procurando ou uma opção de reiniciar o atendimento.
-(Colar o fluxo )
+
 
 ### FERRAMENTAS UTILIZADAS
   <img src="https://user-images.githubusercontent.com/40433498/174687677-f42a2f52-1b0f-4f8d-ba9d-316e6d019c5f.png" width="50" height="50" /> <img src="https://user-images.githubusercontent.com/40433498/174687676-5d40a2fe-4b62-4fa1-a1fe-20737a1878f8.png" width="50" height="50" /> <img src="https://user-images.githubusercontent.com/40433498/174687678-7ea56222-a00e-4886-a63d-d4214221f8ca.jpg" width="50" height="50" />
