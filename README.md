@@ -13,8 +13,8 @@ O objetivo do projeto é desenvolver um fale conosco automático em Python, para
 1. Dúvidas
 2. Consultas
 3. Informações
-4. Sair
-5. Acrescentamos ao sistema a opção de pacotes adicionais 
+4. Pacotes Adicionais 
+5. Sair 
 
 ### SOBRE A REVI
 <img src="https://user-images.githubusercontent.com/40433498/174669731-dc5621b9-bc5d-44c4-9227-1809697d39ac.png" min-width="400px" max-width="200px" width="200px" align="right" alt="Computador iuriCode">
